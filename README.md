@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jayadinucj
-- 👀 I’m interested in Web Design & Developemnet. Also interested Python & C
+- 👀 I’m interested in Web Design & Developemnet. Also interested Python & C. And I am currently doing freelance WordPress Web Design projects.
 - 🌱 I’m currently learning Python & C
 - 💞️ I’m looking to collaborate on Web Design & Development projects
 - 📫 How to reach me hello@chathurajayadinu.com
